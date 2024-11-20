@@ -40,6 +40,8 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
 
+Check the options
+
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
